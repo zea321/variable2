@@ -5,7 +5,7 @@ public class Main {
 System.out.println("Задание " + one);
     byte myAge = 29;
     short speedInformationBrainKmh = 432;
-    int speedLight = 299_792_458;
+    int speedLight = 299792458;
     long myDick = 9999999999999999L;
     float speedSoundKmh = 1.224f;
     double speedLightningMs = 10000000.0;
@@ -13,7 +13,7 @@ System.out.println("Задание " + one);
     System.out.println("Мне " + myAge + " и я люблю науку!"
             + "И вот несколько интересных фактов из мира науки." + " Скорость сигнала в нашем мозге "
             + speedInformationBrainKmh + " Км/ч!!" + " Скорость света " + 299_792_458 + " км/с. " + " Длин*** ЦЕНЗУРА!!" +
-            myDick + " Планковских длин)) " +  " Звук движется в воздухе температоруй 20 градусов, со скоростью " +
+            myDick + " Планковских длин)) " +  " Звук движется в воздухе температоруй 20 градусов со скоростью " +
             speedSoundKmh + " Км/ч" + " А скорость молнии " + speedLightningMs + " М/с." );
     System.out.println("Is it true that the speed of light is equal to the speed of radio waves? " + speedLightTrue + "!");
 System.out.println("Теперь давайте сменим тему))" + " Задание 2");
